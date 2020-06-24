@@ -1,0 +1,17 @@
+{
+  "name": "jerry-coding-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/preset-env": "^7.10.3",
+    "babel": "^6.23.0",
+    "jest": "^26.1.0"
+  }
+}
